@@ -1,3 +1,9 @@
 {
-  "item.stormlight.amethyst": "Amethyst"
+  "item.stormlight.sapphire": "Sapphire",
+  "item.stormlight.ruby": "Ruby",
+  "item.stormlight.garnet": "Garnet",
+  "item.stormlight.heliodor": "Heliodor",
+  "item.stormlight.topaz": "Topaz",
+  "item.stormlight.zircon": "Zircon",
+  "item.stormlight.smokestone": "Smokestone"
 }
